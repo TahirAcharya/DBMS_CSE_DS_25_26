@@ -6,3 +6,5 @@ Assignment
 [Mini Project Problem Statement Update Link](https://docs.google.com/spreadsheets/d/1yRYsI2zD_gCmpbYDZSC-d9ZU_WZcr5OReSNYNb_cWMU/edit?usp=sharing)
 
 [Lab Exp 2](https://drive.google.com/file/d/1k-yMQ78wJPGXuu66ifuFggz5UihSVgSw/view?usp=sharing)
+
+[Module 4 - ch2](https://drive.google.com/file/d/1EKPkr9uEw0uBqjyIWv3Hy7yOb47_SqpL/view?usp=drive_link)
