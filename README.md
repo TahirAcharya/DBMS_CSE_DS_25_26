@@ -10,3 +10,5 @@ Assignment
 [Module 4 - ch2](https://drive.google.com/file/d/1EKPkr9uEw0uBqjyIWv3Hy7yOb47_SqpL/view?usp=drive_link)
 
 [Module 5 - ch1](https://docs.google.com/presentation/d/1QWTRBqhS7DIXU5u5-csYYdJA5_r32jdQ/edit?usp=sharing&ouid=102189640680844426038&rtpof=true&sd=true)
+
+[https://www.freecodecamp.org/news/database-normalization-1nf-2nf-3nf-table-examples/](https://www.freecodecamp.org/news/database-normalization-1nf-2nf-3nf-table-examples/)
