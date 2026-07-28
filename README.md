@@ -5,3 +5,5 @@ Assignment
 
 [Mini Project Problem Statement Update Link](https://docs.google.com/spreadsheets/d/1yRYsI2zD_gCmpbYDZSC-d9ZU_WZcr5OReSNYNb_cWMU/edit?usp=sharing)
 [link](https://drive.google.com/file/d/1itD8Cjg3_XymIqS2PTNbgJtDY4r9ENVf/view?usp=sharing)
+
+[https://docs.google.com/presentation/d/12Y9pKJOfnCe9HT60nomVXc17Jso4tHrZ/edit?usp=drive_link&ouid=102189640680844426038&rtpof=true&sd=true](https://docs.google.com/presentation/d/12Y9pKJOfnCe9HT60nomVXc17Jso4tHrZ/edit?usp=drive_link&ouid=102189640680844426038&rtpof=true&sd=true)
