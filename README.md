@@ -7,3 +7,6 @@ Assignment
 [link](https://drive.google.com/file/d/1itD8Cjg3_XymIqS2PTNbgJtDY4r9ENVf/view?usp=sharing)
 
 [https://docs.google.com/presentation/d/12Y9pKJOfnCe9HT60nomVXc17Jso4tHrZ/edit?usp=drive_link&ouid=102189640680844426038&rtpof=true&sd=true](https://docs.google.com/presentation/d/12Y9pKJOfnCe9HT60nomVXc17Jso4tHrZ/edit?usp=drive_link&ouid=102189640680844426038&rtpof=true&sd=true)
+
+
+[1M Ch2](https://docs.google.com/presentation/d/1q0grIcyukfdoIKgBzZFOvNauz37ILVK2/edit?usp=sharing&ouid=102189640680844426038&rtpof=true&sd=true)
